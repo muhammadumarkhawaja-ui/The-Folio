@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+env/
+
+# Node
+node_modules/
+dist/
+.DS_Store
+
+# Output files
+backend/output/
+
+# AI Tools and local state
+.mcp.json
+.superpowers/
+.claude/
+.code-review-graph/
